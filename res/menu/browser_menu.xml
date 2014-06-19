@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item1"
+        android:alphabeticShortcut="a"
+        android:numericShortcut="1"
+        android:title="Feedback"/>
+    <item
+        android:id="@+id/item2"
+        android:alphabeticShortcut="b"
+        android:numericShortcut="2"
+        android:title="About"/>
+    <item
+        android:id="@+id/item3"
+        android:alphabeticShortcut="3"
+        android:numericShortcut="c"
+        android:title="Exit"/>
+
+</menu>
